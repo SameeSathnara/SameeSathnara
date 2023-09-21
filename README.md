@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SameeSathnara
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me samee73alwis@gmail.com
+- 📫 How to reach me samee73sathnara@gmail.com
 
 <!---
 SameeSathnara/SameeSathnara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
